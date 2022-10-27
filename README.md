@@ -1,6 +1,6 @@
 <h1>In development...</h1>
 
-### Hi there, I'm Artem
+### Hi there, I'm Artem 👋
 
 ### My stack
 
