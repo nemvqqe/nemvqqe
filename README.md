@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Artem, nice to meet you.</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)Hi there 👋, I'm Artem, nice to meet you.</h1>
 
 ### My stack
 
