@@ -2,6 +2,8 @@
 
 ### Hi there, I'm Artem 👋
 
+If something doesn’t work out for you, then don’t make a problem out of it, in fact, this is a test prepared by life so that you get stronger and become more experienced
+
 ### My stack
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
